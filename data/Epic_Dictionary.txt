@@ -1,0 +1,110 @@
+Chart
+Review
+Chart Review
+Timeline
+IP Summary
+Web
+Inpatient Provider Dashboard
+Provider
+Dashboard
+Resources
+Web Resources
+Results 
+Review
+Results Review
+Intake/Output
+Intake
+Output
+Problem
+Problem List
+Avatar
+Notes
+Orders
+Rounding
+Procedures
+Growth
+Login
+Chart
+Growth Chart
+My Notes Settings
+ADT Navigators
+Charge
+Note Review
+Note Entry
+Charge Capture
+Infant Development
+Sidebar
+Sidebar Summary
+Synopsis
+Welcome
+BPA Review
+Episodes of Care
+Health Maintenance
+Immunizations
+MAR
+Medications
+Order
+Review
+Order Review
+Annotated Images
+Enter/Edit Results
+History
+Implants
+Review Flowsheets
+Communications
+Additional Tools
+Clinical Calculator
+Graphs
+Images
+References
+Media
+Manager
+Media Manager
+Document List
+Scans
+Acquire
+View Scans
+Document List
+Patient Lists
+HIM
+List Disclosures
+Quick Disclosure
+Request Outside
+Endo/Diab
+Finish Order Reconciliation
+ROP SmartForm
+Sedation
+Antimicrobial Stewards
+Asthma Action Plan
+Connect to Video
+Doc Flowsheets
+Education
+Newborn ROP Screen
+Occluded Vessels
+Patient Goals
+Prep for Surgery
+Restraint Note
+SureScripts
+Univ Protocol
+WARM Scoring
+Gender and Sexual Orientation
+CHOIR
+Ehlers-Danlos Checklist
+NM Tools
+Research Studies 
+Suspected child abuse
+Asthma Pathway
+Asthma
+Autopsy
+Bass Center
+Behavior
+Behavior Plan
+Dialysis
+Neonatal MDR
+Send Message
+Edit Note
+Order Sets
+Admit
+Discharge
+Charge Capture Goals of Care
+
